@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sandro Alves</h1>
 <h3 align="center">I'm a student and I like working with programming...</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandroxp2022" alt="sandroxp2022" /></a> </p>
 
 - 🌱 I’m currently learning **Databases (SQL) and Backend/Frontend (PHP, Javascript)**
 
